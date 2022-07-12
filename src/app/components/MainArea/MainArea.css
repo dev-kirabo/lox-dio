@@ -1,0 +1,14 @@
+#mainArea{
+    width: 100%;
+    height: auto;
+    min-height: 368px;
+    background-color: #39C7AB;
+}
+
+.layoutContainer{
+
+}
+
+#pageLayout{
+    display: grid;
+}

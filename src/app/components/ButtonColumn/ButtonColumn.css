@@ -1,0 +1,18 @@
+.buttonColumn {
+
+    height: auto;
+    display: grid;
+    grid-template: auto auto auto / auto;
+}
+
+.button-left{
+    position: fixed;
+    left: 0px;
+    margin: auto;
+}
+
+.button-right{
+    position: fixed;
+    right: 0px;
+    margin: auto;
+}

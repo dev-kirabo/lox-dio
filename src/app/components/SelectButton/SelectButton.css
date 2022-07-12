@@ -1,0 +1,8 @@
+.selectButton{
+    width: 18%;
+    min-width: 80px;
+    height: auto;
+    min-height: 80px;
+    background-color: #E30062;
+    margin : 10px;
+}
